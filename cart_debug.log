@@ -1,0 +1,981 @@
+21:56:22 >>> INCLUDED BY: DIRECT REQUEST
+21:56:22 >>> NEW FILE LOADED <<<
+21:56:22 >>> REQUEST 1757015782.0942 <<<
+21:56:22 >>> METHOD POST URI /mobile_store/add_to_cart.php <<<
+21:56:22 >>> REQUEST 1757015782.1157 <<<
+id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 12025-09-04 22:09:17 >>> add_to_cart.php called. POST={"product_id":"1"} SESSION_user=2
+2025-09-04 22:09:17 >>> add_to_cart: updated id=51 to qty=1
+id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 12025-09-04 22:17:44 >>> add_to_cart.php called. POST={"product_id":"1"} SESSION_user=2
+2025-09-04 22:17:44 >>> add_to_cart: updated id=51 to qty=1
+id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 1id 51 qty 12025-09-04 22:19:05 >>> add_to_cart.php called. POST={"product_id":"2"} SESSION_user=2
+2025-09-04 22:19:05 >>> add_to_cart: inserted user=2 product=2 qty=1 id=52
+id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 12025-09-04 22:31:31 >>> update_cart.php called. POST={"id":"51","quantity":"2"} SESSION_user=2
+2025-09-04 22:31:31 >>> update_cart: before id=51 user=2 qty=1
+2025-09-04 22:31:31 >>> update_cart: after  id=51 user=2 qty=2 ok=1
+2025-09-04 22:31:32 >>> update_cart.php called. POST={"id":"51","quantity":"1"} SESSION_user=2
+2025-09-04 22:31:32 >>> update_cart: before id=51 user=2 qty=2
+2025-09-04 22:31:32 >>> update_cart: after  id=51 user=2 qty=1 ok=1
+2025-09-04 22:31:33 >>> update_cart.php called. POST={"id":"51","quantity":"1"} SESSION_user=2
+2025-09-04 22:31:33 >>> update_cart: before id=51 user=2 qty=1
+2025-09-04 22:31:33 >>> update_cart: after  id=51 user=2 qty=1 ok=1
+2025-09-04 22:31:33 >>> update_cart.php called. POST={"id":"51","quantity":"1"} SESSION_user=2
+2025-09-04 22:31:33 >>> update_cart: before id=51 user=2 qty=1
+2025-09-04 22:31:33 >>> update_cart: after  id=51 user=2 qty=1 ok=1
+2025-09-04 22:31:34 >>> update_cart.php called. POST={"id":"51","quantity":"2"} SESSION_user=2
+2025-09-04 22:31:34 >>> update_cart: before id=51 user=2 qty=1
+2025-09-04 22:31:34 >>> update_cart: after  id=51 user=2 qty=2 ok=1
+2025-09-04 22:31:34 >>> update_cart.php called. POST={"id":"51","quantity":"3"} SESSION_user=2
+2025-09-04 22:31:34 >>> update_cart: before id=51 user=2 qty=2
+2025-09-04 22:31:34 >>> update_cart: after  id=51 user=2 qty=3 ok=1
+2025-09-04 22:31:35 >>> update_cart.php called. POST={"id":"51","quantity":"2"} SESSION_user=2
+2025-09-04 22:31:35 >>> update_cart: before id=51 user=2 qty=3
+2025-09-04 22:31:35 >>> update_cart: after  id=51 user=2 qty=2 ok=1
+2025-09-04 22:31:36 >>> update_cart.php called. POST={"id":"51","quantity":"1"} SESSION_user=2
+2025-09-04 22:31:36 >>> update_cart: before id=51 user=2 qty=2
+2025-09-04 22:31:36 >>> update_cart: after  id=51 user=2 qty=1 ok=1
+2025-09-04 22:31:36 >>> update_cart.php called. POST={"id":"51","quantity":"1"} SESSION_user=2
+2025-09-04 22:31:36 >>> update_cart: before id=51 user=2 qty=1
+2025-09-04 22:31:36 >>> update_cart: after  id=51 user=2 qty=1 ok=1
+2025-09-04 22:31:36 >>> update_cart.php called. POST={"id":"51","quantity":"1"} SESSION_user=2
+2025-09-04 22:31:36 >>> update_cart: before id=51 user=2 qty=1
+2025-09-04 22:31:36 >>> update_cart: after  id=51 user=2 qty=1 ok=1
+2025-09-04 22:31:36 >>> update_cart.php called. POST={"id":"51","quantity":"1"} SESSION_user=2
+2025-09-04 22:31:36 >>> update_cart: before id=51 user=2 qty=1
+2025-09-04 22:31:36 >>> update_cart: after  id=51 user=2 qty=1 ok=1
+2025-09-04 22:31:36 >>> update_cart.php called. POST={"id":"51","quantity":"1"} SESSION_user=2
+2025-09-04 22:31:36 >>> update_cart: before id=51 user=2 qty=1
+2025-09-04 22:31:36 >>> update_cart: after  id=51 user=2 qty=1 ok=1
+2025-09-04 22:31:37 >>> update_cart.php called. POST={"id":"51","quantity":"1"} SESSION_user=2
+2025-09-04 22:31:37 >>> update_cart: before id=51 user=2 qty=1
+2025-09-04 22:31:37 >>> update_cart: after  id=51 user=2 qty=1 ok=1
+id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 12025-09-06 19:32:55 >>> add_to_cart.php called. POST={"product_id":"1"} SESSION_user=2
+2025-09-06 19:32:55 >>> add_to_cart: updated id=51 to qty=1
+id 51 qty 1id 52 qty 12025-09-06 19:32:59 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:32:59 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:32:59 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:33:00 >>> update_cart.php called. POST={"id":"52","quantity":"2"} SESSION_user=2
+2025-09-06 19:33:00 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:33:00 >>> update_cart: after  id=52 user=2 qty=2 ok=1
+2025-09-06 19:33:01 >>> update_cart.php called. POST={"id":"52","quantity":"3"} SESSION_user=2
+2025-09-06 19:33:01 >>> update_cart: before id=52 user=2 qty=2
+2025-09-06 19:33:01 >>> update_cart: after  id=52 user=2 qty=3 ok=1
+2025-09-06 19:33:01 >>> update_cart.php called. POST={"id":"52","quantity":"4"} SESSION_user=2
+2025-09-06 19:33:01 >>> update_cart: before id=52 user=2 qty=3
+2025-09-06 19:33:01 >>> update_cart: after  id=52 user=2 qty=4 ok=1
+2025-09-06 19:33:01 >>> update_cart.php called. POST={"id":"52","quantity":"5"} SESSION_user=2
+2025-09-06 19:33:01 >>> update_cart: before id=52 user=2 qty=4
+2025-09-06 19:33:01 >>> update_cart: after  id=52 user=2 qty=5 ok=1
+2025-09-06 19:33:01 >>> update_cart.php called. POST={"id":"52","quantity":"6"} SESSION_user=2
+2025-09-06 19:33:01 >>> update_cart: before id=52 user=2 qty=5
+2025-09-06 19:33:01 >>> update_cart: after  id=52 user=2 qty=6 ok=1
+2025-09-06 19:33:01 >>> update_cart.php called. POST={"id":"52","quantity":"7"} SESSION_user=2
+2025-09-06 19:33:01 >>> update_cart: before id=52 user=2 qty=6
+2025-09-06 19:33:01 >>> update_cart: after  id=52 user=2 qty=7 ok=1
+2025-09-06 19:33:01 >>> update_cart.php called. POST={"id":"52","quantity":"8"} SESSION_user=2
+2025-09-06 19:33:01 >>> update_cart: before id=52 user=2 qty=7
+2025-09-06 19:33:01 >>> update_cart: after  id=52 user=2 qty=8 ok=1
+id 51 qty 1id 52 qty 8id 51 qty 1id 52 qty 82025-09-06 19:33:10 >>> update_cart.php called. POST={"id":"52","quantity":"9"} SESSION_user=2
+2025-09-06 19:33:10 >>> update_cart: before id=52 user=2 qty=8
+2025-09-06 19:33:10 >>> update_cart: after  id=52 user=2 qty=9 ok=1
+2025-09-06 19:33:10 >>> update_cart.php called. POST={"id":"52","quantity":"10"} SESSION_user=2
+2025-09-06 19:33:10 >>> update_cart: before id=52 user=2 qty=9
+2025-09-06 19:33:10 >>> update_cart: after  id=52 user=2 qty=10 ok=1
+2025-09-06 19:33:11 >>> update_cart.php called. POST={"id":"52","quantity":"11"} SESSION_user=2
+2025-09-06 19:33:11 >>> update_cart: before id=52 user=2 qty=10
+2025-09-06 19:33:11 >>> update_cart: after  id=52 user=2 qty=11 ok=1
+2025-09-06 19:33:11 >>> update_cart.php called. POST={"id":"52","quantity":"12"} SESSION_user=2
+2025-09-06 19:33:11 >>> update_cart: before id=52 user=2 qty=11
+2025-09-06 19:33:11 >>> update_cart: after  id=52 user=2 qty=12 ok=1
+2025-09-06 19:33:11 >>> update_cart.php called. POST={"id":"52","quantity":"13"} SESSION_user=2
+2025-09-06 19:33:11 >>> update_cart: before id=52 user=2 qty=12
+2025-09-06 19:33:11 >>> update_cart: after  id=52 user=2 qty=13 ok=1
+2025-09-06 19:33:12 >>> update_cart.php called. POST={"id":"52","quantity":"12"} SESSION_user=2
+2025-09-06 19:33:12 >>> update_cart: before id=52 user=2 qty=13
+2025-09-06 19:33:12 >>> update_cart: after  id=52 user=2 qty=12 ok=1
+2025-09-06 19:33:12 >>> update_cart.php called. POST={"id":"52","quantity":"11"} SESSION_user=2
+2025-09-06 19:33:12 >>> update_cart: before id=52 user=2 qty=12
+2025-09-06 19:33:12 >>> update_cart: after  id=52 user=2 qty=11 ok=1
+2025-09-06 19:33:12 >>> update_cart.php called. POST={"id":"52","quantity":"10"} SESSION_user=2
+2025-09-06 19:33:12 >>> update_cart: before id=52 user=2 qty=11
+2025-09-06 19:33:12 >>> update_cart: after  id=52 user=2 qty=10 ok=1
+2025-09-06 19:33:12 >>> update_cart.php called. POST={"id":"52","quantity":"9"} SESSION_user=2
+2025-09-06 19:33:12 >>> update_cart: before id=52 user=2 qty=10
+2025-09-06 19:33:12 >>> update_cart: after  id=52 user=2 qty=9 ok=1
+2025-09-06 19:33:12 >>> update_cart.php called. POST={"id":"52","quantity":"8"} SESSION_user=2
+2025-09-06 19:33:12 >>> update_cart: before id=52 user=2 qty=9
+2025-09-06 19:33:12 >>> update_cart: after  id=52 user=2 qty=8 ok=1
+2025-09-06 19:33:12 >>> update_cart.php called. POST={"id":"52","quantity":"7"} SESSION_user=2
+2025-09-06 19:33:12 >>> update_cart: before id=52 user=2 qty=8
+2025-09-06 19:33:12 >>> update_cart: after  id=52 user=2 qty=7 ok=1
+2025-09-06 19:33:12 >>> update_cart.php called. POST={"id":"52","quantity":"6"} SESSION_user=2
+2025-09-06 19:33:12 >>> update_cart: before id=52 user=2 qty=7
+2025-09-06 19:33:12 >>> update_cart: after  id=52 user=2 qty=6 ok=1
+2025-09-06 19:33:13 >>> update_cart.php called. POST={"id":"52","quantity":"5"} SESSION_user=2
+2025-09-06 19:33:13 >>> update_cart: before id=52 user=2 qty=6
+2025-09-06 19:33:13 >>> update_cart: after  id=52 user=2 qty=5 ok=1
+2025-09-06 19:33:13 >>> update_cart.php called. POST={"id":"52","quantity":"4"} SESSION_user=2
+2025-09-06 19:33:13 >>> update_cart: before id=52 user=2 qty=5
+2025-09-06 19:33:13 >>> update_cart: after  id=52 user=2 qty=4 ok=1
+2025-09-06 19:33:13 >>> update_cart.php called. POST={"id":"52","quantity":"3"} SESSION_user=2
+2025-09-06 19:33:13 >>> update_cart: before id=52 user=2 qty=4
+2025-09-06 19:33:13 >>> update_cart: after  id=52 user=2 qty=3 ok=1
+2025-09-06 19:33:13 >>> update_cart.php called. POST={"id":"52","quantity":"2"} SESSION_user=2
+2025-09-06 19:33:13 >>> update_cart: before id=52 user=2 qty=3
+2025-09-06 19:33:13 >>> update_cart: after  id=52 user=2 qty=2 ok=1
+2025-09-06 19:33:13 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:33:13 >>> update_cart: before id=52 user=2 qty=2
+2025-09-06 19:33:13 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:33:13 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:33:13 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:33:13 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:33:14 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:33:14 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:33:14 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:33:14 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:33:14 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:33:14 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 12025-09-06 19:33:25 >>> update_cart.php called. POST={"id":"52","quantity":"2"} SESSION_user=2
+2025-09-06 19:33:25 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:33:25 >>> update_cart: after  id=52 user=2 qty=2 ok=1
+id 51 qty 1id 52 qty 2id 51 qty 1id 52 qty 2id 51 qty 1id 52 qty 2id 51 qty 1id 52 qty 2id 51 qty 1id 52 qty 2id 51 qty 1id 52 qty 2id 51 qty 1id 52 qty 2id 51 qty 1id 52 qty 2id 51 qty 1id 52 qty 2id 51 qty 1id 52 qty 2id 51 qty 1id 52 qty 2id 51 qty 1id 52 qty 2id 51 qty 1id 52 qty 2id 51 qty 1id 52 qty 2id 51 qty 1id 52 qty 22025-09-06 19:33:32 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:33:32 >>> update_cart: before id=52 user=2 qty=2
+2025-09-06 19:33:32 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:33:32 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:33:32 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:33:32 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:33:33 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:33:33 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:33:33 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+id 51 qty 1id 52 qty 1id 51 qty 1id 52 qty 12025-09-06 19:33:40 >>> update_cart.php called. POST={"id":"52","quantity":"2"} SESSION_user=2
+2025-09-06 19:33:40 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:33:40 >>> update_cart: after  id=52 user=2 qty=2 ok=1
+2025-09-06 19:33:40 >>> update_cart.php called. POST={"id":"52","quantity":"3"} SESSION_user=2
+2025-09-06 19:33:40 >>> update_cart: before id=52 user=2 qty=2
+2025-09-06 19:33:40 >>> update_cart: after  id=52 user=2 qty=3 ok=1
+2025-09-06 19:33:40 >>> update_cart.php called. POST={"id":"52","quantity":"4"} SESSION_user=2
+2025-09-06 19:33:40 >>> update_cart: before id=52 user=2 qty=3
+2025-09-06 19:33:40 >>> update_cart: after  id=52 user=2 qty=4 ok=1
+id 51 qty 1id 52 qty 4id 51 qty 1id 52 qty 42025-09-06 19:33:56 >>> update_cart.php called. POST={"id":"52","quantity":"3"} SESSION_user=2
+2025-09-06 19:33:56 >>> update_cart: before id=52 user=2 qty=4
+2025-09-06 19:33:56 >>> update_cart: after  id=52 user=2 qty=3 ok=1
+2025-09-06 19:33:57 >>> update_cart.php called. POST={"id":"52","quantity":"2"} SESSION_user=2
+2025-09-06 19:33:57 >>> update_cart: before id=52 user=2 qty=3
+2025-09-06 19:33:57 >>> update_cart: after  id=52 user=2 qty=2 ok=1
+2025-09-06 19:33:58 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:33:58 >>> update_cart: before id=52 user=2 qty=2
+2025-09-06 19:33:58 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:34:00 >>> update_cart.php called. POST={"id":"52","quantity":"19"} SESSION_user=2
+2025-09-06 19:34:00 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:34:00 >>> update_cart: after  id=52 user=2 qty=19 ok=1
+2025-09-06 19:34:00 >>> update_cart.php called. POST={"id":"52","quantity":"190"} SESSION_user=2
+2025-09-06 19:34:00 >>> update_cart: before id=52 user=2 qty=19
+2025-09-06 19:34:00 >>> update_cart: after  id=52 user=2 qty=190 ok=1
+2025-09-06 19:34:03 >>> update_cart.php called. POST={"id":"4","quantity":"190"} SESSION_user=2
+2025-09-06 19:34:03 >>> update_cart: before id=4 user=2 qty=
+2025-09-06 19:34:03 >>> update_cart: after  id=4 user=2 qty= ok=1
+id 51 qty 1id 52 qty 1902025-09-06 19:34:08 >>> update_cart.php called. POST={"id":"52","quantity":"189"} SESSION_user=2
+2025-09-06 19:34:08 >>> update_cart: before id=52 user=2 qty=190
+2025-09-06 19:34:08 >>> update_cart: after  id=52 user=2 qty=189 ok=1
+2025-09-06 19:34:09 >>> update_cart.php called. POST={"id":"52","quantity":"188"} SESSION_user=2
+2025-09-06 19:34:09 >>> update_cart: before id=52 user=2 qty=189
+2025-09-06 19:34:09 >>> update_cart: after  id=52 user=2 qty=188 ok=1
+2025-09-06 19:34:09 >>> update_cart.php called. POST={"id":"52","quantity":"187"} SESSION_user=2
+2025-09-06 19:34:09 >>> update_cart: before id=52 user=2 qty=188
+2025-09-06 19:34:09 >>> update_cart: after  id=52 user=2 qty=187 ok=1
+2025-09-06 19:34:09 >>> update_cart.php called. POST={"id":"52","quantity":"186"} SESSION_user=2
+2025-09-06 19:34:09 >>> update_cart: before id=52 user=2 qty=187
+2025-09-06 19:34:09 >>> update_cart: after  id=52 user=2 qty=186 ok=1
+2025-09-06 19:34:10 >>> update_cart.php called. POST={"id":"190","quantity":"186"} SESSION_user=2
+2025-09-06 19:34:10 >>> update_cart: before id=190 user=2 qty=
+2025-09-06 19:34:10 >>> update_cart: after  id=190 user=2 qty= ok=1
+id 51 qty 1id 52 qty 1862025-09-06 19:34:13 >>> update_cart.php called. POST={"id":"52","quantity":"185"} SESSION_user=2
+2025-09-06 19:34:13 >>> update_cart: before id=52 user=2 qty=186
+2025-09-06 19:34:13 >>> update_cart: after  id=52 user=2 qty=185 ok=1
+2025-09-06 19:34:15 >>> update_cart.php called. POST={"id":"52","quantity":"18"} SESSION_user=2
+2025-09-06 19:34:15 >>> update_cart: before id=52 user=2 qty=185
+2025-09-06 19:34:15 >>> update_cart: after  id=52 user=2 qty=18 ok=1
+2025-09-06 19:34:15 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:15 >>> update_cart: before id=52 user=2 qty=18
+2025-09-06 19:34:15 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:34:17 >>> update_cart.php called. POST={"id":"52","quantity":"187"} SESSION_user=2
+2025-09-06 19:34:17 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:34:17 >>> update_cart: after  id=52 user=2 qty=187 ok=1
+2025-09-06 19:34:19 >>> update_cart.php called. POST={"id":"187","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:19 >>> update_cart: before id=187 user=2 qty=
+2025-09-06 19:34:19 >>> update_cart: after  id=187 user=2 qty= ok=1
+id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 187id 51 qty 1id 52 qty 1872025-09-06 19:34:29 >>> update_cart.php called. POST={"id":"52","quantity":"188"} SESSION_user=2
+2025-09-06 19:34:29 >>> update_cart: before id=52 user=2 qty=187
+2025-09-06 19:34:29 >>> update_cart: after  id=52 user=2 qty=188 ok=1
+2025-09-06 19:34:30 >>> update_cart.php called. POST={"id":"52","quantity":"189"} SESSION_user=2
+2025-09-06 19:34:30 >>> update_cart: before id=52 user=2 qty=188
+2025-09-06 19:34:30 >>> update_cart: after  id=52 user=2 qty=189 ok=1
+2025-09-06 19:34:30 >>> update_cart.php called. POST={"id":"52","quantity":"190"} SESSION_user=2
+2025-09-06 19:34:30 >>> update_cart: before id=52 user=2 qty=189
+2025-09-06 19:34:30 >>> update_cart: after  id=52 user=2 qty=190 ok=1
+2025-09-06 19:34:30 >>> update_cart.php called. POST={"id":"52","quantity":"191"} SESSION_user=2
+2025-09-06 19:34:30 >>> update_cart: before id=52 user=2 qty=190
+2025-09-06 19:34:30 >>> update_cart: after  id=52 user=2 qty=191 ok=1
+2025-09-06 19:34:30 >>> update_cart.php called. POST={"id":"52","quantity":"190"} SESSION_user=2
+2025-09-06 19:34:30 >>> update_cart: before id=52 user=2 qty=191
+2025-09-06 19:34:30 >>> update_cart: after  id=52 user=2 qty=190 ok=1
+2025-09-06 19:34:30 >>> update_cart.php called. POST={"id":"52","quantity":"189"} SESSION_user=2
+2025-09-06 19:34:30 >>> update_cart: before id=52 user=2 qty=190
+2025-09-06 19:34:31 >>> update_cart: after  id=52 user=2 qty=189 ok=1
+2025-09-06 19:34:31 >>> update_cart.php called. POST={"id":"52","quantity":"188"} SESSION_user=2
+2025-09-06 19:34:31 >>> update_cart: before id=52 user=2 qty=189
+2025-09-06 19:34:31 >>> update_cart: after  id=52 user=2 qty=188 ok=1
+2025-09-06 19:34:31 >>> update_cart.php called. POST={"id":"52","quantity":"187"} SESSION_user=2
+2025-09-06 19:34:31 >>> update_cart: before id=52 user=2 qty=188
+2025-09-06 19:34:31 >>> update_cart: after  id=52 user=2 qty=187 ok=1
+2025-09-06 19:34:31 >>> update_cart.php called. POST={"id":"52","quantity":"186"} SESSION_user=2
+2025-09-06 19:34:31 >>> update_cart: before id=52 user=2 qty=187
+2025-09-06 19:34:31 >>> update_cart: after  id=52 user=2 qty=186 ok=1
+2025-09-06 19:34:31 >>> update_cart.php called. POST={"id":"52","quantity":"185"} SESSION_user=2
+2025-09-06 19:34:31 >>> update_cart: before id=52 user=2 qty=186
+2025-09-06 19:34:31 >>> update_cart: after  id=52 user=2 qty=185 ok=1
+2025-09-06 19:34:31 >>> update_cart.php called. POST={"id":"52","quantity":"184"} SESSION_user=2
+2025-09-06 19:34:31 >>> update_cart: before id=52 user=2 qty=185
+2025-09-06 19:34:31 >>> update_cart: after  id=52 user=2 qty=184 ok=1
+2025-09-06 19:34:31 >>> update_cart.php called. POST={"id":"52","quantity":"183"} SESSION_user=2
+2025-09-06 19:34:31 >>> update_cart: before id=52 user=2 qty=184
+2025-09-06 19:34:31 >>> update_cart: after  id=52 user=2 qty=183 ok=1
+2025-09-06 19:34:32 >>> update_cart.php called. POST={"id":"52","quantity":"182"} SESSION_user=2
+2025-09-06 19:34:32 >>> update_cart: before id=52 user=2 qty=183
+2025-09-06 19:34:32 >>> update_cart: after  id=52 user=2 qty=182 ok=1
+2025-09-06 19:34:32 >>> update_cart.php called. POST={"id":"52","quantity":"181"} SESSION_user=2
+2025-09-06 19:34:32 >>> update_cart: before id=52 user=2 qty=182
+2025-09-06 19:34:32 >>> update_cart: after  id=52 user=2 qty=181 ok=1
+2025-09-06 19:34:32 >>> update_cart.php called. POST={"id":"52","quantity":"180"} SESSION_user=2
+2025-09-06 19:34:32 >>> update_cart: before id=52 user=2 qty=181
+2025-09-06 19:34:32 >>> update_cart: after  id=52 user=2 qty=180 ok=1
+2025-09-06 19:34:32 >>> update_cart.php called. POST={"id":"52","quantity":"179"} SESSION_user=2
+2025-09-06 19:34:32 >>> update_cart: before id=52 user=2 qty=180
+2025-09-06 19:34:32 >>> update_cart: after  id=52 user=2 qty=179 ok=1
+2025-09-06 19:34:32 >>> update_cart.php called. POST={"id":"52","quantity":"178"} SESSION_user=2
+2025-09-06 19:34:32 >>> update_cart: before id=52 user=2 qty=179
+2025-09-06 19:34:32 >>> update_cart: after  id=52 user=2 qty=178 ok=1
+2025-09-06 19:34:33 >>> update_cart.php called. POST={"id":"52","quantity":"177"} SESSION_user=2
+2025-09-06 19:34:33 >>> update_cart: before id=52 user=2 qty=178
+2025-09-06 19:34:33 >>> update_cart: after  id=52 user=2 qty=177 ok=1
+2025-09-06 19:34:33 >>> update_cart.php called. POST={"id":"52","quantity":"17"} SESSION_user=2
+2025-09-06 19:34:33 >>> update_cart: before id=52 user=2 qty=177
+2025-09-06 19:34:33 >>> update_cart: after  id=52 user=2 qty=17 ok=1
+2025-09-06 19:34:33 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:33 >>> update_cart: before id=52 user=2 qty=17
+2025-09-06 19:34:33 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:34:33 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:33 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:34:33 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:34:33 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:33 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:34:33 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:34:33 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:33 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:34:33 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:34:33 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:33 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:34:33 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:34:33 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:33 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:34:33 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:34:33 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:33 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:34:33 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:34:34 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:34 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:34:34 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:34:34 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:34 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:34:34 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:34:34 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:34 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:34:34 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:34:34 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:34 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:34:34 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:34:34 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:34 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:34:34 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:34:34 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:34 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:34:34 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:34:34 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:34 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:34:34 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:34:36 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:36 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:34:36 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:34:36 >>> update_cart.php called. POST={"id":"52","quantity":"12"} SESSION_user=2
+2025-09-06 19:34:36 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:34:36 >>> update_cart: after  id=52 user=2 qty=12 ok=1
+2025-09-06 19:34:38 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:38 >>> update_cart: before id=52 user=2 qty=12
+2025-09-06 19:34:38 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:34:38 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:38 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:34:38 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:34:38 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:38 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:34:38 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:34:39 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:39 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:34:39 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:34:39 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:39 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:34:39 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:34:39 >>> update_cart.php called. POST={"id":"52","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:39 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:34:39 >>> update_cart: after  id=52 user=2 qty=1 ok=1
+2025-09-06 19:34:42 >>> update_cart.php called. POST={"id":"52","quantity":"188"} SESSION_user=2
+2025-09-06 19:34:42 >>> update_cart: before id=52 user=2 qty=1
+2025-09-06 19:34:42 >>> update_cart: after  id=52 user=2 qty=188 ok=1
+2025-09-06 19:34:43 >>> update_cart.php called. POST={"id":"52","quantity":"189"} SESSION_user=2
+2025-09-06 19:34:43 >>> update_cart: before id=52 user=2 qty=188
+2025-09-06 19:34:43 >>> update_cart: after  id=52 user=2 qty=189 ok=1
+2025-09-06 19:34:46 >>> update_cart.php called. POST={"id":"189","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:46 >>> update_cart: before id=189 user=2 qty=
+2025-09-06 19:34:46 >>> update_cart: after  id=189 user=2 qty= ok=1
+2025-09-06 19:34:51 >>> update_cart.php called. POST={"id":"189","quantity":"1"} SESSION_user=2
+2025-09-06 19:34:51 >>> update_cart: before id=189 user=2 qty=
+2025-09-06 19:34:51 >>> update_cart: after  id=189 user=2 qty= ok=1
+id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 51 qty 1id 52 qty 189id 52 qty 189id 52 qty 1892025-09-06 19:41:51 >>> add_to_cart.php called. POST={"product_id":"1"} SESSION_user=2
+2025-09-06 19:41:51 >>> add_to_cart: inserted user=2 product=1 qty=1 id=53
+id 53 qty 12025-09-06 19:41:56 >>> add_to_cart.php called. POST={"product_id":"2"} SESSION_user=2
+2025-09-06 19:41:56 >>> add_to_cart: inserted user=2 product=2 qty=1 id=54
+id 53 qty 1id 54 qty 12025-09-06 19:41:59 >>> add_to_cart.php called. POST={"product_id":"3"} SESSION_user=2
+2025-09-06 19:41:59 >>> add_to_cart: inserted user=2 product=3 qty=1 id=55
+id 53 qty 1id 54 qty 1id 55 qty 1id 53 qty 1id 54 qty 1id 53 qty 1id 54 qty 12025-09-06 19:42:04 >>> update_cart.php called. POST={"id":"54","quantity":"2"} SESSION_user=2
+2025-09-06 19:42:04 >>> update_cart: before id=54 user=2 qty=1
+2025-09-06 19:42:04 >>> update_cart: after  id=54 user=2 qty=2 ok=1
+2025-09-06 19:42:05 >>> update_cart.php called. POST={"id":"54","quantity":"3"} SESSION_user=2
+2025-09-06 19:42:05 >>> update_cart: before id=54 user=2 qty=2
+2025-09-06 19:42:05 >>> update_cart: after  id=54 user=2 qty=3 ok=1
+2025-09-06 19:42:06 >>> update_cart.php called. POST={"id":"54","quantity":"2"} SESSION_user=2
+2025-09-06 19:42:06 >>> update_cart: before id=54 user=2 qty=3
+2025-09-06 19:42:06 >>> update_cart: after  id=54 user=2 qty=2 ok=1
+2025-09-06 19:42:07 >>> update_cart.php called. POST={"id":"54","quantity":"1"} SESSION_user=2
+2025-09-06 19:42:07 >>> update_cart: before id=54 user=2 qty=2
+2025-09-06 19:42:07 >>> update_cart: after  id=54 user=2 qty=1 ok=1
+2025-09-06 19:42:07 >>> update_cart.php called. POST={"id":"54","quantity":"1"} SESSION_user=2
+2025-09-06 19:42:07 >>> update_cart: before id=54 user=2 qty=1
+2025-09-06 19:42:07 >>> update_cart: after  id=54 user=2 qty=1 ok=1
+2025-09-06 19:42:07 >>> update_cart.php called. POST={"id":"54","quantity":"1"} SESSION_user=2
+2025-09-06 19:42:07 >>> update_cart: before id=54 user=2 qty=1
+2025-09-06 19:42:07 >>> update_cart: after  id=54 user=2 qty=1 ok=1
+2025-09-06 19:42:08 >>> update_cart.php called. POST={"id":"54","quantity":"1"} SESSION_user=2
+2025-09-06 19:42:08 >>> update_cart: before id=54 user=2 qty=1
+2025-09-06 19:42:08 >>> update_cart: after  id=54 user=2 qty=1 ok=1
+2025-09-06 19:42:09 >>> update_cart.php called. POST={"id":"54","quantity":"2"} SESSION_user=2
+2025-09-06 19:42:09 >>> update_cart: before id=54 user=2 qty=1
+2025-09-06 19:42:09 >>> update_cart: after  id=54 user=2 qty=2 ok=1
+2025-09-06 19:42:09 >>> update_cart.php called. POST={"id":"54","quantity":"1"} SESSION_user=2
+2025-09-06 19:42:09 >>> update_cart: before id=54 user=2 qty=2
+2025-09-06 19:42:09 >>> update_cart: after  id=54 user=2 qty=1 ok=1
+2025-09-06 19:42:10 >>> update_cart.php called. POST={"id":"54","quantity":"1"} SESSION_user=2
+2025-09-06 19:42:10 >>> update_cart: before id=54 user=2 qty=1
+2025-09-06 19:42:10 >>> update_cart: after  id=54 user=2 qty=1 ok=1
+id 53 qty 1id 53 qty 12025-09-06 19:42:19 >>> add_to_cart.php called. POST={"product_id":"1"} SESSION_user=2
+2025-09-06 19:42:19 >>> add_to_cart: inserted user=2 product=1 qty=1 id=56
+id 56 qty 12025-09-06 19:48:05 >>> update_cart.php called. POST={"id":"56","quantity":"1"} SESSION_user=2
+2025-09-06 19:48:05 >>> update_cart: before id=56 user=2 qty=1
+2025-09-06 19:48:05 >>> update_cart: after  id=56 user=2 qty=1 ok=1
+2025-09-06 19:48:06 >>> update_cart.php called. POST={"id":"56","quantity":"2"} SESSION_user=2
+2025-09-06 19:48:06 >>> update_cart: before id=56 user=2 qty=1
+2025-09-06 19:48:06 >>> update_cart: after  id=56 user=2 qty=2 ok=1
+2025-09-06 19:48:06 >>> update_cart.php called. POST={"id":"56","quantity":"3"} SESSION_user=2
+2025-09-06 19:48:06 >>> update_cart: before id=56 user=2 qty=2
+2025-09-06 19:48:06 >>> update_cart: after  id=56 user=2 qty=3 ok=1
+2025-09-06 19:48:07 >>> update_cart.php called. POST={"id":"56","quantity":"2"} SESSION_user=2
+2025-09-06 19:48:07 >>> update_cart: before id=56 user=2 qty=3
+2025-09-06 19:48:07 >>> update_cart: after  id=56 user=2 qty=2 ok=1
+2025-09-06 19:48:07 >>> update_cart.php called. POST={"id":"56","quantity":"1"} SESSION_user=2
+2025-09-06 19:48:07 >>> update_cart: before id=56 user=2 qty=2
+2025-09-06 19:48:07 >>> update_cart: after  id=56 user=2 qty=1 ok=1
+2025-09-06 19:48:07 >>> update_cart.php called. POST={"id":"56","quantity":"1"} SESSION_user=2
+2025-09-06 19:48:07 >>> update_cart: before id=56 user=2 qty=1
+2025-09-06 19:48:07 >>> update_cart: after  id=56 user=2 qty=1 ok=1
+2025-09-06 19:48:08 >>> update_cart.php called. POST={"id":"56","quantity":"1"} SESSION_user=2
+2025-09-06 19:48:08 >>> update_cart: before id=56 user=2 qty=1
+2025-09-06 19:48:08 >>> update_cart: after  id=56 user=2 qty=1 ok=1
+2025-09-06 19:48:08 >>> update_cart.php called. POST={"id":"56","quantity":"1"} SESSION_user=2
+2025-09-06 19:48:08 >>> update_cart: before id=56 user=2 qty=1
+2025-09-06 19:48:08 >>> update_cart: after  id=56 user=2 qty=1 ok=1
+2025-09-06 19:48:08 >>> update_cart.php called. POST={"id":"56","quantity":"1"} SESSION_user=2
+2025-09-06 19:48:08 >>> update_cart: before id=56 user=2 qty=1
+2025-09-06 19:48:08 >>> update_cart: after  id=56 user=2 qty=1 ok=1
+2025-09-06 19:48:08 >>> update_cart.php called. POST={"id":"56","quantity":"1"} SESSION_user=2
+2025-09-06 19:48:08 >>> update_cart: before id=56 user=2 qty=1
+2025-09-06 19:48:08 >>> update_cart: after  id=56 user=2 qty=1 ok=1
+id 56 qty 1id 56 qty 1id 56 qty 1id 56 qty 1id 56 qty 12025-09-06 20:02:45 >>> update_cart.php called. POST={"id":"56","quantity":"57"} SESSION_user=2
+2025-09-06 20:02:45 >>> update_cart: before id=56 user=2 qty=1
+2025-09-06 20:02:45 >>> update_cart: after  id=56 user=2 qty=57 ok=1
+2025-09-06 20:02:46 >>> update_cart.php called. POST={"id":"56","quantity":"58"} SESSION_user=2
+2025-09-06 20:02:46 >>> update_cart: before id=56 user=2 qty=57
+2025-09-06 20:02:46 >>> update_cart: after  id=56 user=2 qty=58 ok=1
+2025-09-06 20:02:46 >>> update_cart.php called. POST={"id":"56","quantity":"59"} SESSION_user=2
+2025-09-06 20:02:46 >>> update_cart: before id=56 user=2 qty=58
+2025-09-06 20:02:46 >>> update_cart: after  id=56 user=2 qty=59 ok=1
+2025-09-06 20:02:47 >>> update_cart.php called. POST={"id":"56","quantity":"60"} SESSION_user=2
+2025-09-06 20:02:47 >>> update_cart: before id=56 user=2 qty=59
+2025-09-06 20:02:47 >>> update_cart: after  id=56 user=2 qty=60 ok=1
+2025-09-06 20:02:47 >>> update_cart.php called. POST={"id":"56","quantity":"61"} SESSION_user=2
+2025-09-06 20:02:47 >>> update_cart: before id=56 user=2 qty=60
+2025-09-06 20:02:47 >>> update_cart: after  id=56 user=2 qty=61 ok=1
+2025-09-06 20:02:47 >>> update_cart.php called. POST={"id":"56","quantity":"62"} SESSION_user=2
+2025-09-06 20:02:47 >>> update_cart: before id=56 user=2 qty=61
+2025-09-06 20:02:47 >>> update_cart: after  id=56 user=2 qty=62 ok=1
+2025-09-06 20:02:47 >>> update_cart.php called. POST={"id":"56","quantity":"63"} SESSION_user=2
+2025-09-06 20:02:47 >>> update_cart: before id=56 user=2 qty=62
+2025-09-06 20:02:47 >>> update_cart: after  id=56 user=2 qty=63 ok=1
+2025-09-06 20:02:48 >>> update_cart.php called. POST={"id":"56","quantity":"64"} SESSION_user=2
+2025-09-06 20:02:48 >>> update_cart: before id=56 user=2 qty=63
+2025-09-06 20:02:48 >>> update_cart: after  id=56 user=2 qty=64 ok=1
+2025-09-06 20:02:48 >>> update_cart.php called. POST={"id":"56","quantity":"65"} SESSION_user=2
+2025-09-06 20:02:48 >>> update_cart: before id=56 user=2 qty=64
+2025-09-06 20:02:48 >>> update_cart: after  id=56 user=2 qty=65 ok=1
+2025-09-06 20:02:49 >>> update_cart.php called. POST={"id":"56","quantity":"66"} SESSION_user=2
+2025-09-06 20:02:49 >>> update_cart: before id=56 user=2 qty=65
+2025-09-06 20:02:49 >>> update_cart: after  id=56 user=2 qty=66 ok=1
+2025-09-06 20:02:49 >>> update_cart.php called. POST={"id":"56","quantity":"67"} SESSION_user=2
+2025-09-06 20:02:49 >>> update_cart: before id=56 user=2 qty=66
+2025-09-06 20:02:49 >>> update_cart: after  id=56 user=2 qty=67 ok=1
+2025-09-06 20:02:49 >>> update_cart.php called. POST={"id":"56","quantity":"68"} SESSION_user=2
+2025-09-06 20:02:49 >>> update_cart: before id=56 user=2 qty=67
+2025-09-06 20:02:49 >>> update_cart: after  id=56 user=2 qty=68 ok=1
+2025-09-06 20:02:50 >>> update_cart.php called. POST={"id":"56","quantity":"69"} SESSION_user=2
+2025-09-06 20:02:50 >>> update_cart: before id=56 user=2 qty=68
+2025-09-06 20:02:50 >>> update_cart: after  id=56 user=2 qty=69 ok=1
+2025-09-06 20:02:50 >>> update_cart.php called. POST={"id":"56","quantity":"70"} SESSION_user=2
+2025-09-06 20:02:50 >>> update_cart: before id=56 user=2 qty=69
+2025-09-06 20:02:50 >>> update_cart: after  id=56 user=2 qty=70 ok=1
+id 56 qty 702025-09-06 20:04:27 >>> update_cart.php called. POST={"id":"56","quantity":"71"} SESSION_user=2
+2025-09-06 20:04:27 >>> update_cart: before id=56 user=2 qty=70
+2025-09-06 20:04:27 >>> update_cart: after  id=56 user=2 qty=71 ok=1
+2025-09-06 20:04:28 >>> update_cart.php called. POST={"id":"56","quantity":"72"} SESSION_user=2
+2025-09-06 20:04:28 >>> update_cart: before id=56 user=2 qty=71
+2025-09-06 20:04:28 >>> update_cart: after  id=56 user=2 qty=72 ok=1
+2025-09-06 20:04:28 >>> update_cart.php called. POST={"id":"56","quantity":"73"} SESSION_user=2
+2025-09-06 20:04:28 >>> update_cart: before id=56 user=2 qty=72
+2025-09-06 20:04:28 >>> update_cart: after  id=56 user=2 qty=73 ok=1
+2025-09-06 20:04:28 >>> update_cart.php called. POST={"id":"56","quantity":"74"} SESSION_user=2
+2025-09-06 20:04:28 >>> update_cart: before id=56 user=2 qty=73
+2025-09-06 20:04:28 >>> update_cart: after  id=56 user=2 qty=74 ok=1
+2025-09-06 20:04:28 >>> update_cart.php called. POST={"id":"56","quantity":"75"} SESSION_user=2
+2025-09-06 20:04:28 >>> update_cart: before id=56 user=2 qty=74
+2025-09-06 20:04:28 >>> update_cart: after  id=56 user=2 qty=75 ok=1
+2025-09-06 20:04:29 >>> update_cart.php called. POST={"id":"56","quantity":"76"} SESSION_user=2
+2025-09-06 20:04:29 >>> update_cart: before id=56 user=2 qty=75
+2025-09-06 20:04:29 >>> update_cart: after  id=56 user=2 qty=76 ok=1
+2025-09-06 20:04:29 >>> update_cart.php called. POST={"id":"56","quantity":"77"} SESSION_user=2
+2025-09-06 20:04:29 >>> update_cart: before id=56 user=2 qty=76
+2025-09-06 20:04:29 >>> update_cart: after  id=56 user=2 qty=77 ok=1
+2025-09-06 20:04:31 >>> update_cart.php called. POST={"id":"56","quantity":"76"} SESSION_user=2
+2025-09-06 20:04:31 >>> update_cart: before id=56 user=2 qty=77
+2025-09-06 20:04:31 >>> update_cart: after  id=56 user=2 qty=76 ok=1
+2025-09-06 20:04:31 >>> update_cart.php called. POST={"id":"56","quantity":"75"} SESSION_user=2
+2025-09-06 20:04:31 >>> update_cart: before id=56 user=2 qty=76
+2025-09-06 20:04:31 >>> update_cart: after  id=56 user=2 qty=75 ok=1
+2025-09-06 20:04:31 >>> update_cart.php called. POST={"id":"56","quantity":"74"} SESSION_user=2
+2025-09-06 20:04:31 >>> update_cart: before id=56 user=2 qty=75
+2025-09-06 20:04:31 >>> update_cart: after  id=56 user=2 qty=74 ok=1
+2025-09-06 20:04:31 >>> update_cart.php called. POST={"id":"56","quantity":"73"} SESSION_user=2
+2025-09-06 20:04:31 >>> update_cart: before id=56 user=2 qty=74
+2025-09-06 20:04:31 >>> update_cart: after  id=56 user=2 qty=73 ok=1
+2025-09-06 20:04:31 >>> update_cart.php called. POST={"id":"56","quantity":"72"} SESSION_user=2
+2025-09-06 20:04:31 >>> update_cart: before id=56 user=2 qty=73
+2025-09-06 20:04:31 >>> update_cart: after  id=56 user=2 qty=72 ok=1
+2025-09-06 20:04:32 >>> update_cart.php called. POST={"id":"56","quantity":"71"} SESSION_user=2
+2025-09-06 20:04:32 >>> update_cart: before id=56 user=2 qty=72
+2025-09-06 20:04:32 >>> update_cart: after  id=56 user=2 qty=71 ok=1
+id 56 qty 712025-09-06 20:04:40 >>> add_to_cart.php called. POST={"product_id":"1"} SESSION_user=2
+2025-09-06 20:04:40 >>> add_to_cart: inserted user=2 product=1 qty=1 id=57
+id 57 qty 12025-09-06 20:04:41 >>> update_cart.php called. POST={"id":"57","quantity":"2"} SESSION_user=2
+2025-09-06 20:04:41 >>> update_cart: before id=57 user=2 qty=1
+2025-09-06 20:04:41 >>> update_cart: after  id=57 user=2 qty=2 ok=1
+2025-09-06 20:04:42 >>> update_cart.php called. POST={"id":"57","quantity":"3"} SESSION_user=2
+2025-09-06 20:04:42 >>> update_cart: before id=57 user=2 qty=2
+2025-09-06 20:04:42 >>> update_cart: after  id=57 user=2 qty=3 ok=1
+2025-09-06 20:04:43 >>> update_cart.php called. POST={"id":"57","quantity":"2"} SESSION_user=2
+2025-09-06 20:04:43 >>> update_cart: before id=57 user=2 qty=3
+2025-09-06 20:04:43 >>> update_cart: after  id=57 user=2 qty=2 ok=1
+2025-09-06 20:04:43 >>> update_cart.php called. POST={"id":"57","quantity":"1"} SESSION_user=2
+2025-09-06 20:04:43 >>> update_cart: before id=57 user=2 qty=2
+2025-09-06 20:04:43 >>> update_cart: after  id=57 user=2 qty=1 ok=1
+2025-09-06 20:04:43 >>> update_cart.php called. POST={"id":"57","quantity":"1"} SESSION_user=2
+2025-09-06 20:04:43 >>> update_cart: before id=57 user=2 qty=1
+2025-09-06 20:04:43 >>> update_cart: after  id=57 user=2 qty=1 ok=1
+2025-09-06 20:04:44 >>> update_cart.php called. POST={"id":"57","quantity":"2"} SESSION_user=2
+2025-09-06 20:04:44 >>> update_cart: before id=57 user=2 qty=1
+2025-09-06 20:04:44 >>> update_cart: after  id=57 user=2 qty=2 ok=1
+2025-09-06 20:04:44 >>> update_cart.php called. POST={"id":"57","quantity":"3"} SESSION_user=2
+2025-09-06 20:04:44 >>> update_cart: before id=57 user=2 qty=2
+2025-09-06 20:04:44 >>> update_cart: after  id=57 user=2 qty=3 ok=1
+2025-09-06 20:04:45 >>> update_cart.php called. POST={"id":"57","quantity":"2"} SESSION_user=2
+2025-09-06 20:04:45 >>> update_cart: before id=57 user=2 qty=3
+2025-09-06 20:04:45 >>> update_cart: after  id=57 user=2 qty=2 ok=1
+2025-09-06 20:04:45 >>> update_cart.php called. POST={"id":"57","quantity":"1"} SESSION_user=2
+2025-09-06 20:04:45 >>> update_cart: before id=57 user=2 qty=2
+2025-09-06 20:04:45 >>> update_cart: after  id=57 user=2 qty=1 ok=1
+2025-09-06 20:04:45 >>> update_cart.php called. POST={"id":"57","quantity":"1"} SESSION_user=2
+2025-09-06 20:04:45 >>> update_cart: before id=57 user=2 qty=1
+2025-09-06 20:04:45 >>> update_cart: after  id=57 user=2 qty=1 ok=1
+2025-09-06 20:04:46 >>> update_cart.php called. POST={"id":"57","quantity":"2"} SESSION_user=2
+2025-09-06 20:04:46 >>> update_cart: before id=57 user=2 qty=1
+2025-09-06 20:04:46 >>> update_cart: after  id=57 user=2 qty=2 ok=1
+2025-09-06 20:04:46 >>> update_cart.php called. POST={"id":"57","quantity":"3"} SESSION_user=2
+2025-09-06 20:04:46 >>> update_cart: before id=57 user=2 qty=2
+2025-09-06 20:04:46 >>> update_cart: after  id=57 user=2 qty=3 ok=1
+2025-09-06 20:04:48 >>> update_cart.php called. POST={"id":"57","quantity":"2"} SESSION_user=2
+2025-09-06 20:04:48 >>> update_cart: before id=57 user=2 qty=3
+2025-09-06 20:04:48 >>> update_cart: after  id=57 user=2 qty=2 ok=1
+2025-09-06 20:04:48 >>> update_cart.php called. POST={"id":"57","quantity":"1"} SESSION_user=2
+2025-09-06 20:04:48 >>> update_cart: before id=57 user=2 qty=2
+2025-09-06 20:04:48 >>> update_cart: after  id=57 user=2 qty=1 ok=1
+2025-09-06 20:04:48 >>> update_cart.php called. POST={"id":"57","quantity":"1"} SESSION_user=2
+2025-09-06 20:04:48 >>> update_cart: before id=57 user=2 qty=1
+2025-09-06 20:04:48 >>> update_cart: after  id=57 user=2 qty=1 ok=1
+2025-09-06 20:05:08 >>> update_cart.php called. POST={"id":"57","quantity":"1"} SESSION_user=2
+2025-09-06 20:05:08 >>> update_cart: before id=57 user=2 qty=1
+2025-09-06 20:05:08 >>> update_cart: after  id=57 user=2 qty=1 ok=1
+2025-09-06 20:05:10 >>> update_cart.php called. POST={"id":"57","quantity":"2"} SESSION_user=2
+2025-09-06 20:05:10 >>> update_cart: before id=57 user=2 qty=1
+2025-09-06 20:05:10 >>> update_cart: after  id=57 user=2 qty=2 ok=1
+2025-09-06 20:05:11 >>> update_cart.php called. POST={"id":"57","quantity":"3"} SESSION_user=2
+2025-09-06 20:05:11 >>> update_cart: before id=57 user=2 qty=2
+2025-09-06 20:05:11 >>> update_cart: after  id=57 user=2 qty=3 ok=1
+2025-09-06 20:05:12 >>> update_cart.php called. POST={"id":"57","quantity":"4"} SESSION_user=2
+2025-09-06 20:05:12 >>> update_cart: before id=57 user=2 qty=3
+2025-09-06 20:05:12 >>> update_cart: after  id=57 user=2 qty=4 ok=1
+2025-09-06 20:05:13 >>> update_cart.php called. POST={"id":"57","quantity":"2"} SESSION_user=2
+2025-09-06 20:05:13 >>> update_cart: before id=57 user=2 qty=4
+2025-09-06 20:05:13 >>> update_cart: after  id=57 user=2 qty=2 ok=1
+2025-09-06 20:05:14 >>> update_cart.php called. POST={"id":"57","quantity":"3"} SESSION_user=2
+2025-09-06 20:05:14 >>> update_cart: before id=57 user=2 qty=2
+2025-09-06 20:05:14 >>> update_cart: after  id=57 user=2 qty=3 ok=1
+2025-09-06 20:05:15 >>> update_cart.php called. POST={"id":"57","quantity":"4"} SESSION_user=2
+2025-09-06 20:05:15 >>> update_cart: before id=57 user=2 qty=3
+2025-09-06 20:05:15 >>> update_cart: after  id=57 user=2 qty=4 ok=1
+2025-09-06 20:05:15 >>> update_cart.php called. POST={"id":"57","quantity":"5"} SESSION_user=2
+2025-09-06 20:05:15 >>> update_cart: before id=57 user=2 qty=4
+2025-09-06 20:05:15 >>> update_cart: after  id=57 user=2 qty=5 ok=1
+2025-09-06 20:05:15 >>> update_cart.php called. POST={"id":"57","quantity":"6"} SESSION_user=2
+2025-09-06 20:05:15 >>> update_cart: before id=57 user=2 qty=5
+2025-09-06 20:05:15 >>> update_cart: after  id=57 user=2 qty=6 ok=1
+2025-09-06 20:05:15 >>> update_cart.php called. POST={"id":"57","quantity":"7"} SESSION_user=2
+2025-09-06 20:05:15 >>> update_cart: before id=57 user=2 qty=6
+2025-09-06 20:05:15 >>> update_cart: after  id=57 user=2 qty=7 ok=1
+2025-09-06 20:05:16 >>> update_cart.php called. POST={"id":"57","quantity":"8"} SESSION_user=2
+2025-09-06 20:05:16 >>> update_cart: before id=57 user=2 qty=7
+2025-09-06 20:05:16 >>> update_cart: after  id=57 user=2 qty=8 ok=1
+2025-09-06 20:05:16 >>> update_cart.php called. POST={"id":"57","quantity":"9"} SESSION_user=2
+2025-09-06 20:05:16 >>> update_cart: before id=57 user=2 qty=8
+2025-09-06 20:05:16 >>> update_cart: after  id=57 user=2 qty=9 ok=1
+id 57 qty 9id 57 qty 9id 57 qty 9id 57 qty 92025-09-06 20:05:20 >>> update_cart.php called. POST={"id":"57","quantity":"8"} SESSION_user=2
+2025-09-06 20:05:20 >>> update_cart: before id=57 user=2 qty=9
+2025-09-06 20:05:20 >>> update_cart: after  id=57 user=2 qty=8 ok=1
+2025-09-06 20:05:20 >>> update_cart.php called. POST={"id":"57","quantity":"7"} SESSION_user=2
+2025-09-06 20:05:20 >>> update_cart: before id=57 user=2 qty=8
+2025-09-06 20:05:20 >>> update_cart: after  id=57 user=2 qty=7 ok=1
+2025-09-06 20:05:20 >>> update_cart.php called. POST={"id":"57","quantity":"6"} SESSION_user=2
+2025-09-06 20:05:20 >>> update_cart: before id=57 user=2 qty=7
+2025-09-06 20:05:20 >>> update_cart: after  id=57 user=2 qty=6 ok=1
+2025-09-06 20:05:20 >>> update_cart.php called. POST={"id":"57","quantity":"5"} SESSION_user=2
+2025-09-06 20:05:20 >>> update_cart: before id=57 user=2 qty=6
+2025-09-06 20:05:20 >>> update_cart: after  id=57 user=2 qty=5 ok=1
+2025-09-06 20:05:21 >>> update_cart.php called. POST={"id":"57","quantity":"4"} SESSION_user=2
+2025-09-06 20:05:21 >>> update_cart: before id=57 user=2 qty=5
+2025-09-06 20:05:21 >>> update_cart: after  id=57 user=2 qty=4 ok=1
+2025-09-06 20:05:21 >>> update_cart.php called. POST={"id":"57","quantity":"3"} SESSION_user=2
+2025-09-06 20:05:21 >>> update_cart: before id=57 user=2 qty=4
+2025-09-06 20:05:21 >>> update_cart: after  id=57 user=2 qty=3 ok=1
+2025-09-06 20:05:21 >>> update_cart.php called. POST={"id":"57","quantity":"2"} SESSION_user=2
+2025-09-06 20:05:21 >>> update_cart: before id=57 user=2 qty=3
+2025-09-06 20:05:21 >>> update_cart: after  id=57 user=2 qty=2 ok=1
+2025-09-06 20:05:21 >>> update_cart.php called. POST={"id":"57","quantity":"1"} SESSION_user=2
+2025-09-06 20:05:21 >>> update_cart: before id=57 user=2 qty=2
+2025-09-06 20:05:21 >>> update_cart: after  id=57 user=2 qty=1 ok=1
+2025-09-06 20:05:21 >>> update_cart.php called. POST={"id":"57","quantity":"1"} SESSION_user=2
+2025-09-06 20:05:21 >>> update_cart: before id=57 user=2 qty=1
+2025-09-06 20:05:21 >>> update_cart: after  id=57 user=2 qty=1 ok=1
+2025-09-06 20:05:23 >>> update_cart.php called. POST={"id":"57","quantity":"10"} SESSION_user=2
+2025-09-06 20:05:23 >>> update_cart: before id=57 user=2 qty=1
+2025-09-06 20:05:23 >>> update_cart: after  id=57 user=2 qty=10 ok=1
+2025-09-06 20:05:23 >>> update_cart.php called. POST={"id":"57","quantity":"11"} SESSION_user=2
+2025-09-06 20:05:23 >>> update_cart: before id=57 user=2 qty=10
+2025-09-06 20:05:23 >>> update_cart: after  id=57 user=2 qty=11 ok=1
+2025-09-06 20:05:23 >>> update_cart.php called. POST={"id":"57","quantity":"12"} SESSION_user=2
+2025-09-06 20:05:23 >>> update_cart: before id=57 user=2 qty=11
+2025-09-06 20:05:23 >>> update_cart: after  id=57 user=2 qty=12 ok=1
+2025-09-06 20:05:24 >>> update_cart.php called. POST={"id":"57","quantity":"11"} SESSION_user=2
+2025-09-06 20:05:24 >>> update_cart: before id=57 user=2 qty=12
+2025-09-06 20:05:24 >>> update_cart: after  id=57 user=2 qty=11 ok=1
+2025-09-06 20:05:24 >>> update_cart.php called. POST={"id":"57","quantity":"10"} SESSION_user=2
+2025-09-06 20:05:24 >>> update_cart: before id=57 user=2 qty=11
+2025-09-06 20:05:24 >>> update_cart: after  id=57 user=2 qty=10 ok=1
+2025-09-06 20:05:24 >>> update_cart.php called. POST={"id":"57","quantity":"9"} SESSION_user=2
+2025-09-06 20:05:24 >>> update_cart: before id=57 user=2 qty=10
+2025-09-06 20:05:24 >>> update_cart: after  id=57 user=2 qty=9 ok=1
+2025-09-06 20:05:24 >>> update_cart.php called. POST={"id":"57","quantity":"8"} SESSION_user=2
+2025-09-06 20:05:24 >>> update_cart: before id=57 user=2 qty=9
+2025-09-06 20:05:24 >>> update_cart: after  id=57 user=2 qty=8 ok=1
+2025-09-06 20:05:24 >>> update_cart.php called. POST={"id":"57","quantity":"7"} SESSION_user=2
+2025-09-06 20:05:24 >>> update_cart: before id=57 user=2 qty=8
+2025-09-06 20:05:24 >>> update_cart: after  id=57 user=2 qty=7 ok=1
+2025-09-06 20:05:24 >>> update_cart.php called. POST={"id":"57","quantity":"6"} SESSION_user=2
+2025-09-06 20:05:24 >>> update_cart: before id=57 user=2 qty=7
+2025-09-06 20:05:24 >>> update_cart: after  id=57 user=2 qty=6 ok=1
+2025-09-06 20:05:24 >>> update_cart.php called. POST={"id":"57","quantity":"5"} SESSION_user=2
+2025-09-06 20:05:24 >>> update_cart: before id=57 user=2 qty=6
+2025-09-06 20:05:24 >>> update_cart: after  id=57 user=2 qty=5 ok=1
+2025-09-06 20:05:25 >>> update_cart.php called. POST={"id":"57","quantity":"4"} SESSION_user=2
+2025-09-06 20:05:25 >>> update_cart: before id=57 user=2 qty=5
+2025-09-06 20:05:25 >>> update_cart: after  id=57 user=2 qty=4 ok=1
+2025-09-06 20:05:25 >>> update_cart.php called. POST={"id":"57","quantity":"3"} SESSION_user=2
+2025-09-06 20:05:25 >>> update_cart: before id=57 user=2 qty=4
+2025-09-06 20:05:25 >>> update_cart: after  id=57 user=2 qty=3 ok=1
+2025-09-06 20:05:25 >>> update_cart.php called. POST={"id":"57","quantity":"2"} SESSION_user=2
+2025-09-06 20:05:25 >>> update_cart: before id=57 user=2 qty=3
+2025-09-06 20:05:25 >>> update_cart: after  id=57 user=2 qty=2 ok=1
+2025-09-06 20:05:25 >>> update_cart.php called. POST={"id":"57","quantity":"1"} SESSION_user=2
+2025-09-06 20:05:25 >>> update_cart: before id=57 user=2 qty=2
+2025-09-06 20:05:25 >>> update_cart: after  id=57 user=2 qty=1 ok=1
+2025-09-07 22:34:07 >>> add_to_cart.php called. POST={"product_id":"1"} SESSION_user=2
+2025-09-07 22:34:07 >>> add_to_cart: inserted user=2 product=1 qty=1 id=58
+id 58 qty 12025-09-07 22:34:09 >>> update_cart.php called. POST={"id":"58","quantity":"2"} SESSION_user=2
+2025-09-07 22:34:09 >>> update_cart: before id=58 user=2 qty=1
+2025-09-07 22:34:09 >>> update_cart: after  id=58 user=2 qty=2 ok=1
+2025-09-07 22:34:10 >>> update_cart.php called. POST={"id":"58","quantity":"3"} SESSION_user=2
+2025-09-07 22:34:10 >>> update_cart: before id=58 user=2 qty=2
+2025-09-07 22:34:10 >>> update_cart: after  id=58 user=2 qty=3 ok=1
+2025-09-07 22:34:11 >>> update_cart.php called. POST={"id":"58","quantity":"2"} SESSION_user=2
+2025-09-07 22:34:11 >>> update_cart: before id=58 user=2 qty=3
+2025-09-07 22:34:11 >>> update_cart: after  id=58 user=2 qty=2 ok=1
+2025-09-07 22:34:11 >>> update_cart.php called. POST={"id":"58","quantity":"1"} SESSION_user=2
+2025-09-07 22:34:11 >>> update_cart: before id=58 user=2 qty=2
+2025-09-07 22:34:11 >>> update_cart: after  id=58 user=2 qty=1 ok=1
+2025-09-08 19:32:12 >>> add_to_cart.php called. POST={"product_id":"7"} SESSION_user=2
+2025-09-08 19:32:12 >>> add_to_cart: inserted user=2 product=7 qty=1 id=59
+id 59 qty 12025-09-08 19:32:14 >>> update_cart.php called. POST={"id":"59","quantity":"2"} SESSION_user=2
+2025-09-08 19:32:14 >>> update_cart: before id=59 user=2 qty=1
+2025-09-08 19:32:14 >>> update_cart: after  id=59 user=2 qty=2 ok=1
+2025-09-08 19:32:15 >>> update_cart.php called. POST={"id":"59","quantity":"1"} SESSION_user=2
+2025-09-08 19:32:15 >>> update_cart: before id=59 user=2 qty=2
+2025-09-08 19:32:15 >>> update_cart: after  id=59 user=2 qty=1 ok=1
+2025-09-08 19:32:23 >>> add_to_cart.php called. POST={"product_id":"7"} SESSION_user=2
+2025-09-08 19:32:23 >>> add_to_cart: inserted user=2 product=7 qty=1 id=60
+id 60 qty 12025-09-09 14:09:30 >>> add_to_cart.php called. POST={"product_id":"7"} SESSION_user=2
+2025-09-09 14:09:30 >>> add_to_cart: inserted user=2 product=7 qty=1 id=61
+id 61 qty 12025-09-09 14:09:41 >>> update_cart.php called. POST={"id":"61","quantity":"2"} SESSION_user=2
+2025-09-09 14:09:41 >>> update_cart: before id=61 user=2 qty=1
+2025-09-09 14:09:41 >>> update_cart: after  id=61 user=2 qty=2 ok=1
+2025-09-09 14:09:43 >>> update_cart.php called. POST={"id":"61","quantity":"3"} SESSION_user=2
+2025-09-09 14:09:43 >>> update_cart: before id=61 user=2 qty=2
+2025-09-09 14:09:43 >>> update_cart: after  id=61 user=2 qty=3 ok=1
+2025-09-09 14:09:44 >>> update_cart.php called. POST={"id":"61","quantity":"4"} SESSION_user=2
+2025-09-09 14:09:44 >>> update_cart: before id=61 user=2 qty=3
+2025-09-09 14:09:44 >>> update_cart: after  id=61 user=2 qty=4 ok=1
+2025-09-09 14:09:44 >>> update_cart.php called. POST={"id":"61","quantity":"5"} SESSION_user=2
+2025-09-09 14:09:44 >>> update_cart: before id=61 user=2 qty=4
+2025-09-09 14:09:44 >>> update_cart: after  id=61 user=2 qty=5 ok=1
+2025-09-09 14:09:44 >>> update_cart.php called. POST={"id":"61","quantity":"6"} SESSION_user=2
+2025-09-09 14:09:44 >>> update_cart: before id=61 user=2 qty=5
+2025-09-09 14:09:44 >>> update_cart: after  id=61 user=2 qty=6 ok=1
+2025-09-09 14:09:44 >>> update_cart.php called. POST={"id":"61","quantity":"7"} SESSION_user=2
+2025-09-09 14:09:44 >>> update_cart: before id=61 user=2 qty=6
+2025-09-09 14:09:44 >>> update_cart: after  id=61 user=2 qty=7 ok=1
+2025-09-09 14:09:44 >>> update_cart.php called. POST={"id":"61","quantity":"8"} SESSION_user=2
+2025-09-09 14:09:44 >>> update_cart: before id=61 user=2 qty=7
+2025-09-09 14:09:44 >>> update_cart: after  id=61 user=2 qty=8 ok=1
+2025-09-09 14:09:44 >>> update_cart.php called. POST={"id":"61","quantity":"9"} SESSION_user=2
+2025-09-09 14:09:44 >>> update_cart: before id=61 user=2 qty=8
+2025-09-09 14:09:44 >>> update_cart: after  id=61 user=2 qty=9 ok=1
+2025-09-09 14:09:44 >>> update_cart.php called. POST={"id":"61","quantity":"10"} SESSION_user=2
+2025-09-09 14:09:44 >>> update_cart: before id=61 user=2 qty=9
+2025-09-09 14:09:44 >>> update_cart: after  id=61 user=2 qty=10 ok=1
+2025-09-09 14:09:45 >>> update_cart.php called. POST={"id":"61","quantity":"11"} SESSION_user=2
+2025-09-09 14:09:45 >>> update_cart: before id=61 user=2 qty=10
+2025-09-09 14:09:45 >>> update_cart: after  id=61 user=2 qty=11 ok=1
+2025-09-09 14:09:45 >>> update_cart.php called. POST={"id":"61","quantity":"12"} SESSION_user=2
+2025-09-09 14:09:45 >>> update_cart: before id=61 user=2 qty=11
+2025-09-09 14:09:45 >>> update_cart: after  id=61 user=2 qty=12 ok=1
+2025-09-09 14:09:45 >>> update_cart.php called. POST={"id":"61","quantity":"13"} SESSION_user=2
+2025-09-09 14:09:45 >>> update_cart: before id=61 user=2 qty=12
+2025-09-09 14:09:45 >>> update_cart: after  id=61 user=2 qty=13 ok=1
+2025-09-09 14:09:45 >>> update_cart.php called. POST={"id":"61","quantity":"14"} SESSION_user=2
+2025-09-09 14:09:45 >>> update_cart: before id=61 user=2 qty=13
+2025-09-09 14:09:45 >>> update_cart: after  id=61 user=2 qty=14 ok=1
+2025-09-09 14:09:46 >>> update_cart.php called. POST={"id":"61","quantity":"15"} SESSION_user=2
+2025-09-09 14:09:46 >>> update_cart: before id=61 user=2 qty=14
+2025-09-09 14:09:46 >>> update_cart: after  id=61 user=2 qty=15 ok=1
+2025-09-09 14:09:46 >>> update_cart.php called. POST={"id":"61","quantity":"16"} SESSION_user=2
+2025-09-09 14:09:46 >>> update_cart: before id=61 user=2 qty=15
+2025-09-09 14:09:46 >>> update_cart: after  id=61 user=2 qty=16 ok=1
+2025-09-09 14:09:46 >>> update_cart.php called. POST={"id":"61","quantity":"17"} SESSION_user=2
+2025-09-09 14:09:46 >>> update_cart: before id=61 user=2 qty=16
+2025-09-09 14:09:46 >>> update_cart: after  id=61 user=2 qty=17 ok=1
+2025-09-09 14:09:46 >>> update_cart.php called. POST={"id":"61","quantity":"18"} SESSION_user=2
+2025-09-09 14:09:46 >>> update_cart: before id=61 user=2 qty=17
+2025-09-09 14:09:46 >>> update_cart: after  id=61 user=2 qty=18 ok=1
+2025-09-09 14:09:46 >>> update_cart.php called. POST={"id":"61","quantity":"19"} SESSION_user=2
+2025-09-09 14:09:46 >>> update_cart: before id=61 user=2 qty=18
+2025-09-09 14:09:46 >>> update_cart: after  id=61 user=2 qty=19 ok=1
+2025-09-09 14:09:46 >>> update_cart.php called. POST={"id":"61","quantity":"20"} SESSION_user=2
+2025-09-09 14:09:46 >>> update_cart: before id=61 user=2 qty=19
+2025-09-09 14:09:46 >>> update_cart: after  id=61 user=2 qty=20 ok=1
+2025-09-09 14:09:47 >>> update_cart.php called. POST={"id":"61","quantity":"21"} SESSION_user=2
+2025-09-09 14:09:47 >>> update_cart: before id=61 user=2 qty=20
+2025-09-09 14:09:47 >>> update_cart: after  id=61 user=2 qty=21 ok=1
+2025-09-09 14:09:47 >>> update_cart.php called. POST={"id":"61","quantity":"22"} SESSION_user=2
+2025-09-09 14:09:47 >>> update_cart: before id=61 user=2 qty=21
+2025-09-09 14:09:47 >>> update_cart: after  id=61 user=2 qty=22 ok=1
+2025-09-09 14:09:47 >>> update_cart.php called. POST={"id":"61","quantity":"23"} SESSION_user=2
+2025-09-09 14:09:47 >>> update_cart: before id=61 user=2 qty=22
+2025-09-09 14:09:47 >>> update_cart: after  id=61 user=2 qty=23 ok=1
+2025-09-09 14:09:47 >>> update_cart.php called. POST={"id":"61","quantity":"24"} SESSION_user=2
+2025-09-09 14:09:47 >>> update_cart: before id=61 user=2 qty=23
+2025-09-09 14:09:47 >>> update_cart: after  id=61 user=2 qty=24 ok=1
+2025-09-09 14:09:47 >>> update_cart.php called. POST={"id":"61","quantity":"25"} SESSION_user=2
+2025-09-09 14:09:47 >>> update_cart: before id=61 user=2 qty=24
+2025-09-09 14:09:47 >>> update_cart: after  id=61 user=2 qty=25 ok=1
+2025-09-09 14:09:47 >>> update_cart.php called. POST={"id":"61","quantity":"26"} SESSION_user=2
+2025-09-09 14:09:47 >>> update_cart: before id=61 user=2 qty=25
+2025-09-09 14:09:47 >>> update_cart: after  id=61 user=2 qty=26 ok=1
+2025-09-09 14:09:48 >>> update_cart.php called. POST={"id":"61","quantity":"27"} SESSION_user=2
+2025-09-09 14:09:48 >>> update_cart: before id=61 user=2 qty=26
+2025-09-09 14:09:48 >>> update_cart: after  id=61 user=2 qty=27 ok=1
+2025-09-09 14:09:48 >>> update_cart.php called. POST={"id":"61","quantity":"28"} SESSION_user=2
+2025-09-09 14:09:48 >>> update_cart: before id=61 user=2 qty=27
+2025-09-09 14:09:48 >>> update_cart: after  id=61 user=2 qty=28 ok=1
+2025-09-09 14:09:48 >>> update_cart.php called. POST={"id":"61","quantity":"29"} SESSION_user=2
+2025-09-09 14:09:48 >>> update_cart: before id=61 user=2 qty=28
+2025-09-09 14:09:48 >>> update_cart: after  id=61 user=2 qty=29 ok=1
+2025-09-09 14:09:48 >>> update_cart.php called. POST={"id":"61","quantity":"30"} SESSION_user=2
+2025-09-09 14:09:48 >>> update_cart: before id=61 user=2 qty=29
+2025-09-09 14:09:48 >>> update_cart: after  id=61 user=2 qty=30 ok=1
+2025-09-09 14:09:48 >>> update_cart.php called. POST={"id":"61","quantity":"31"} SESSION_user=2
+2025-09-09 14:09:48 >>> update_cart: before id=61 user=2 qty=30
+2025-09-09 14:09:48 >>> update_cart: after  id=61 user=2 qty=31 ok=1
+2025-09-09 14:09:49 >>> update_cart.php called. POST={"id":"61","quantity":"30"} SESSION_user=2
+2025-09-09 14:09:49 >>> update_cart: before id=61 user=2 qty=31
+2025-09-09 14:09:49 >>> update_cart: after  id=61 user=2 qty=30 ok=1
+2025-09-09 14:09:50 >>> update_cart.php called. POST={"id":"61","quantity":"29"} SESSION_user=2
+2025-09-09 14:09:50 >>> update_cart: before id=61 user=2 qty=30
+2025-09-09 14:09:50 >>> update_cart: after  id=61 user=2 qty=29 ok=1
+2025-09-09 14:09:50 >>> update_cart.php called. POST={"id":"61","quantity":"28"} SESSION_user=2
+2025-09-09 14:09:50 >>> update_cart: before id=61 user=2 qty=29
+2025-09-09 14:09:50 >>> update_cart: after  id=61 user=2 qty=28 ok=1
+2025-09-09 14:09:50 >>> update_cart.php called. POST={"id":"61","quantity":"27"} SESSION_user=2
+2025-09-09 14:09:50 >>> update_cart: before id=61 user=2 qty=28
+2025-09-09 14:09:50 >>> update_cart: after  id=61 user=2 qty=27 ok=1
+2025-09-09 14:09:50 >>> update_cart.php called. POST={"id":"61","quantity":"26"} SESSION_user=2
+2025-09-09 14:09:50 >>> update_cart: before id=61 user=2 qty=27
+2025-09-09 14:09:50 >>> update_cart: after  id=61 user=2 qty=26 ok=1
+2025-09-09 14:09:50 >>> update_cart.php called. POST={"id":"61","quantity":"25"} SESSION_user=2
+2025-09-09 14:09:50 >>> update_cart: before id=61 user=2 qty=26
+2025-09-09 14:09:50 >>> update_cart: after  id=61 user=2 qty=25 ok=1
+2025-09-09 14:09:50 >>> update_cart.php called. POST={"id":"61","quantity":"24"} SESSION_user=2
+2025-09-09 14:09:50 >>> update_cart: before id=61 user=2 qty=25
+2025-09-09 14:09:50 >>> update_cart: after  id=61 user=2 qty=24 ok=1
+2025-09-09 14:09:50 >>> update_cart.php called. POST={"id":"61","quantity":"23"} SESSION_user=2
+2025-09-09 14:09:50 >>> update_cart: before id=61 user=2 qty=24
+2025-09-09 14:09:50 >>> update_cart: after  id=61 user=2 qty=23 ok=1
+2025-09-09 14:09:51 >>> update_cart.php called. POST={"id":"61","quantity":"22"} SESSION_user=2
+2025-09-09 14:09:51 >>> update_cart: before id=61 user=2 qty=23
+2025-09-09 14:09:51 >>> update_cart: after  id=61 user=2 qty=22 ok=1
+2025-09-09 14:09:51 >>> update_cart.php called. POST={"id":"61","quantity":"21"} SESSION_user=2
+2025-09-09 14:09:51 >>> update_cart: before id=61 user=2 qty=22
+2025-09-09 14:09:51 >>> update_cart: after  id=61 user=2 qty=21 ok=1
+2025-09-09 14:09:51 >>> update_cart.php called. POST={"id":"61","quantity":"20"} SESSION_user=2
+2025-09-09 14:09:51 >>> update_cart: before id=61 user=2 qty=21
+2025-09-09 14:09:51 >>> update_cart: after  id=61 user=2 qty=20 ok=1
+2025-09-09 14:09:51 >>> update_cart.php called. POST={"id":"61","quantity":"19"} SESSION_user=2
+2025-09-09 14:09:51 >>> update_cart: before id=61 user=2 qty=20
+2025-09-09 14:09:51 >>> update_cart: after  id=61 user=2 qty=19 ok=1
+2025-09-09 14:09:51 >>> update_cart.php called. POST={"id":"61","quantity":"18"} SESSION_user=2
+2025-09-09 14:09:51 >>> update_cart: before id=61 user=2 qty=19
+2025-09-09 14:09:51 >>> update_cart: after  id=61 user=2 qty=18 ok=1
+2025-09-09 14:09:51 >>> update_cart.php called. POST={"id":"61","quantity":"17"} SESSION_user=2
+2025-09-09 14:09:51 >>> update_cart: before id=61 user=2 qty=18
+2025-09-09 14:09:51 >>> update_cart: after  id=61 user=2 qty=17 ok=1
+2025-09-09 14:09:51 >>> update_cart.php called. POST={"id":"61","quantity":"16"} SESSION_user=2
+2025-09-09 14:09:51 >>> update_cart: before id=61 user=2 qty=17
+2025-09-09 14:09:51 >>> update_cart: after  id=61 user=2 qty=16 ok=1
+2025-09-09 14:09:52 >>> update_cart.php called. POST={"id":"61","quantity":"15"} SESSION_user=2
+2025-09-09 14:09:52 >>> update_cart: before id=61 user=2 qty=16
+2025-09-09 14:09:52 >>> update_cart: after  id=61 user=2 qty=15 ok=1
+2025-09-09 14:09:52 >>> update_cart.php called. POST={"id":"61","quantity":"14"} SESSION_user=2
+2025-09-09 14:09:52 >>> update_cart: before id=61 user=2 qty=15
+2025-09-09 14:09:52 >>> update_cart: after  id=61 user=2 qty=14 ok=1
+2025-09-09 14:09:52 >>> update_cart.php called. POST={"id":"61","quantity":"13"} SESSION_user=2
+2025-09-09 14:09:52 >>> update_cart: before id=61 user=2 qty=14
+2025-09-09 14:09:52 >>> update_cart: after  id=61 user=2 qty=13 ok=1
+2025-09-09 14:09:52 >>> update_cart.php called. POST={"id":"61","quantity":"12"} SESSION_user=2
+2025-09-09 14:09:52 >>> update_cart: before id=61 user=2 qty=13
+2025-09-09 14:09:52 >>> update_cart: after  id=61 user=2 qty=12 ok=1
+2025-09-09 14:09:52 >>> update_cart.php called. POST={"id":"61","quantity":"11"} SESSION_user=2
+2025-09-09 14:09:52 >>> update_cart: before id=61 user=2 qty=12
+2025-09-09 14:09:52 >>> update_cart: after  id=61 user=2 qty=11 ok=1
+2025-09-09 14:09:53 >>> update_cart.php called. POST={"id":"61","quantity":"10"} SESSION_user=2
+2025-09-09 14:09:53 >>> update_cart: before id=61 user=2 qty=11
+2025-09-09 14:09:53 >>> update_cart: after  id=61 user=2 qty=10 ok=1
+2025-09-09 14:09:53 >>> update_cart.php called. POST={"id":"61","quantity":"9"} SESSION_user=2
+2025-09-09 14:09:53 >>> update_cart: before id=61 user=2 qty=10
+2025-09-09 14:09:53 >>> update_cart: after  id=61 user=2 qty=9 ok=1
+2025-09-09 14:09:53 >>> update_cart.php called. POST={"id":"61","quantity":"8"} SESSION_user=2
+2025-09-09 14:09:53 >>> update_cart: before id=61 user=2 qty=9
+2025-09-09 14:09:53 >>> update_cart: after  id=61 user=2 qty=8 ok=1
+2025-09-09 14:09:53 >>> update_cart.php called. POST={"id":"61","quantity":"7"} SESSION_user=2
+2025-09-09 14:09:53 >>> update_cart: before id=61 user=2 qty=8
+2025-09-09 14:09:53 >>> update_cart: after  id=61 user=2 qty=7 ok=1
+2025-09-09 14:09:53 >>> update_cart.php called. POST={"id":"61","quantity":"6"} SESSION_user=2
+2025-09-09 14:09:53 >>> update_cart: before id=61 user=2 qty=7
+2025-09-09 14:09:53 >>> update_cart: after  id=61 user=2 qty=6 ok=1
+2025-09-09 14:09:53 >>> update_cart.php called. POST={"id":"61","quantity":"5"} SESSION_user=2
+2025-09-09 14:09:53 >>> update_cart: before id=61 user=2 qty=6
+2025-09-09 14:09:53 >>> update_cart: after  id=61 user=2 qty=5 ok=1
+2025-09-09 14:09:54 >>> update_cart.php called. POST={"id":"61","quantity":"4"} SESSION_user=2
+2025-09-09 14:09:54 >>> update_cart: before id=61 user=2 qty=5
+2025-09-09 14:09:54 >>> update_cart: after  id=61 user=2 qty=4 ok=1
+2025-09-09 14:09:54 >>> update_cart.php called. POST={"id":"61","quantity":"3"} SESSION_user=2
+2025-09-09 14:09:54 >>> update_cart: before id=61 user=2 qty=4
+2025-09-09 14:09:54 >>> update_cart: after  id=61 user=2 qty=3 ok=1
+2025-09-09 14:09:54 >>> update_cart.php called. POST={"id":"61","quantity":"2"} SESSION_user=2
+2025-09-09 14:09:54 >>> update_cart: before id=61 user=2 qty=3
+2025-09-09 14:09:54 >>> update_cart: after  id=61 user=2 qty=2 ok=1
+2025-09-09 14:09:54 >>> update_cart.php called. POST={"id":"61","quantity":"1"} SESSION_user=2
+2025-09-09 14:09:54 >>> update_cart: before id=61 user=2 qty=2
+2025-09-09 14:09:54 >>> update_cart: after  id=61 user=2 qty=1 ok=1
+2025-09-09 14:09:54 >>> update_cart.php called. POST={"id":"61","quantity":"1"} SESSION_user=2
+2025-09-09 14:09:54 >>> update_cart: before id=61 user=2 qty=1
+2025-09-09 14:09:54 >>> update_cart: after  id=61 user=2 qty=1 ok=1
+2025-09-09 14:09:54 >>> update_cart.php called. POST={"id":"61","quantity":"1"} SESSION_user=2
+2025-09-09 14:09:54 >>> update_cart: before id=61 user=2 qty=1
+2025-09-09 14:09:54 >>> update_cart: after  id=61 user=2 qty=1 ok=1
+2025-09-09 14:09:55 >>> update_cart.php called. POST={"id":"61","quantity":"1"} SESSION_user=2
+2025-09-09 14:09:55 >>> update_cart: before id=61 user=2 qty=1
+2025-09-09 14:09:55 >>> update_cart: after  id=61 user=2 qty=1 ok=1
+2025-09-09 14:09:55 >>> update_cart.php called. POST={"id":"61","quantity":"1"} SESSION_user=2
+2025-09-09 14:09:55 >>> update_cart: before id=61 user=2 qty=1
+2025-09-09 14:09:55 >>> update_cart: after  id=61 user=2 qty=1 ok=1
+2025-09-09 14:09:55 >>> update_cart.php called. POST={"id":"61","quantity":"1"} SESSION_user=2
+2025-09-09 14:09:55 >>> update_cart: before id=61 user=2 qty=1
+2025-09-09 14:09:55 >>> update_cart: after  id=61 user=2 qty=1 ok=1
+id 61 qty 1id 61 qty 12025-09-09 14:10:10 >>> update_cart.php called. POST={"id":"61","quantity":"2"} SESSION_user=2
+2025-09-09 14:10:10 >>> update_cart: before id=61 user=2 qty=1
+2025-09-09 14:10:10 >>> update_cart: after  id=61 user=2 qty=2 ok=1
+2025-09-09 14:10:12 >>> update_cart.php called. POST={"id":"61","quantity":"1"} SESSION_user=2
+2025-09-09 14:10:12 >>> update_cart: before id=61 user=2 qty=2
+2025-09-09 14:10:12 >>> update_cart: after  id=61 user=2 qty=1 ok=1
+2025-09-09 14:10:13 >>> update_cart.php called. POST={"id":"61","quantity":"2"} SESSION_user=2
+2025-09-09 14:10:13 >>> update_cart: before id=61 user=2 qty=1
+2025-09-09 14:10:13 >>> update_cart: after  id=61 user=2 qty=2 ok=1
+2025-09-09 14:10:13 >>> update_cart.php called. POST={"id":"61","quantity":"3"} SESSION_user=2
+2025-09-09 14:10:13 >>> update_cart: before id=61 user=2 qty=2
+2025-09-09 14:10:13 >>> update_cart: after  id=61 user=2 qty=3 ok=1
+2025-09-09 14:12:28 >>> add_to_cart.php called. POST={"product_id":"8"} SESSION_user=2
+2025-09-09 14:12:28 >>> add_to_cart: inserted user=2 product=8 qty=1 id=62
+id 62 qty 12025-09-09 14:12:45 >>> update_cart.php called. POST={"id":"62","quantity":"1"} SESSION_user=2
+2025-09-09 14:12:45 >>> update_cart: before id=62 user=2 qty=1
+2025-09-09 14:12:45 >>> update_cart: after  id=62 user=2 qty=1 ok=1
+2025-09-09 14:12:45 >>> update_cart.php called. POST={"id":"62","quantity":"1"} SESSION_user=2
+2025-09-09 14:12:45 >>> update_cart: before id=62 user=2 qty=1
+2025-09-09 14:12:45 >>> update_cart: after  id=62 user=2 qty=1 ok=1
+2025-09-09 14:12:45 >>> update_cart.php called. POST={"id":"62","quantity":"1"} SESSION_user=2
+2025-09-09 14:12:45 >>> update_cart: before id=62 user=2 qty=1
+2025-09-09 14:12:45 >>> update_cart: after  id=62 user=2 qty=1 ok=1
+2025-09-09 14:38:54 >>> add_to_cart.php called. POST={"product_id":"8"} SESSION_user=2
+2025-09-09 14:38:54 >>> add_to_cart: inserted user=2 product=8 qty=1 id=63
+id 63 qty 12025-09-09 14:40:39 >>> add_to_cart.php called. POST={"product_id":"9"} SESSION_user=2
+2025-09-09 14:40:39 >>> add_to_cart: inserted user=2 product=9 qty=1 id=64
+id 64 qty 12025-09-09 14:40:42 >>> update_cart.php called. POST={"id":"64","quantity":"2"} SESSION_user=2
+2025-09-09 14:40:42 >>> update_cart: before id=64 user=2 qty=1
+2025-09-09 14:40:42 >>> update_cart: after  id=64 user=2 qty=2 ok=1
+2025-09-09 14:40:42 >>> update_cart.php called. POST={"id":"64","quantity":"3"} SESSION_user=2
+2025-09-09 14:40:42 >>> update_cart: before id=64 user=2 qty=2
+2025-09-09 14:40:42 >>> update_cart: after  id=64 user=2 qty=3 ok=1
+2025-09-09 14:40:42 >>> update_cart.php called. POST={"id":"64","quantity":"4"} SESSION_user=2
+2025-09-09 14:40:42 >>> update_cart: before id=64 user=2 qty=3
+2025-09-09 14:40:42 >>> update_cart: after  id=64 user=2 qty=4 ok=1
+2025-09-09 14:40:42 >>> update_cart.php called. POST={"id":"64","quantity":"5"} SESSION_user=2
+2025-09-09 14:40:42 >>> update_cart: before id=64 user=2 qty=4
+2025-09-09 14:40:42 >>> update_cart: after  id=64 user=2 qty=5 ok=1
+2025-09-09 14:40:43 >>> update_cart.php called. POST={"id":"64","quantity":"6"} SESSION_user=2
+2025-09-09 14:40:43 >>> update_cart: before id=64 user=2 qty=5
+2025-09-09 14:40:43 >>> update_cart: after  id=64 user=2 qty=6 ok=1
+2025-09-09 14:40:43 >>> update_cart.php called. POST={"id":"64","quantity":"7"} SESSION_user=2
+2025-09-09 14:40:43 >>> update_cart: before id=64 user=2 qty=6
+2025-09-09 14:40:43 >>> update_cart: after  id=64 user=2 qty=7 ok=1
+2025-09-09 14:40:43 >>> update_cart.php called. POST={"id":"64","quantity":"8"} SESSION_user=2
+2025-09-09 14:40:43 >>> update_cart: before id=64 user=2 qty=7
+2025-09-09 14:40:43 >>> update_cart: after  id=64 user=2 qty=8 ok=1
+2025-09-09 14:40:43 >>> update_cart.php called. POST={"id":"64","quantity":"9"} SESSION_user=2
+2025-09-09 14:40:43 >>> update_cart: before id=64 user=2 qty=8
+2025-09-09 14:40:43 >>> update_cart: after  id=64 user=2 qty=9 ok=1
+2025-09-09 14:40:43 >>> update_cart.php called. POST={"id":"64","quantity":"10"} SESSION_user=2
+2025-09-09 14:40:43 >>> update_cart: before id=64 user=2 qty=9
+2025-09-09 14:40:43 >>> update_cart: after  id=64 user=2 qty=10 ok=1
+2025-09-09 14:40:59 >>> add_to_cart.php called. POST={"product_id":"9"} SESSION_user=2
+2025-09-09 14:40:59 >>> add_to_cart: inserted user=2 product=9 qty=1 id=65
+id 65 qty 12025-09-09 14:41:09 >>> update_cart.php called. POST={"id":"65","quantity":"1"} SESSION_user=2
+2025-09-09 14:41:09 >>> update_cart: before id=65 user=2 qty=1
+2025-09-09 14:41:09 >>> update_cart: after  id=65 user=2 qty=1 ok=1
+2025-09-09 14:41:09 >>> update_cart.php called. POST={"id":"65","quantity":"1"} SESSION_user=2
+2025-09-09 14:41:09 >>> update_cart: before id=65 user=2 qty=1
+2025-09-09 14:41:09 >>> update_cart: after  id=65 user=2 qty=1 ok=1
+2025-09-09 14:41:10 >>> update_cart.php called. POST={"id":"65","quantity":"2"} SESSION_user=2
+2025-09-09 14:41:10 >>> update_cart: before id=65 user=2 qty=1
+2025-09-09 14:41:10 >>> update_cart: after  id=65 user=2 qty=2 ok=1
+2025-09-09 14:41:10 >>> update_cart.php called. POST={"id":"65","quantity":"3"} SESSION_user=2
+2025-09-09 14:41:10 >>> update_cart: before id=65 user=2 qty=2
+2025-09-09 14:41:10 >>> update_cart: after  id=65 user=2 qty=3 ok=1
+2025-09-09 14:41:11 >>> update_cart.php called. POST={"id":"65","quantity":"2"} SESSION_user=2
+2025-09-09 14:41:11 >>> update_cart: before id=65 user=2 qty=3
+2025-09-09 14:41:11 >>> update_cart: after  id=65 user=2 qty=2 ok=1
+2025-09-09 14:41:11 >>> update_cart.php called. POST={"id":"65","quantity":"1"} SESSION_user=2
+2025-09-09 14:41:11 >>> update_cart: before id=65 user=2 qty=2
+2025-09-09 14:41:11 >>> update_cart: after  id=65 user=2 qty=1 ok=1
+2025-09-09 14:41:12 >>> update_cart.php called. POST={"id":"65","quantity":"1"} SESSION_user=2
+2025-09-09 14:41:12 >>> update_cart: before id=65 user=2 qty=1
+2025-09-09 14:41:12 >>> update_cart: after  id=65 user=2 qty=1 ok=1
+2025-09-09 14:41:12 >>> update_cart.php called. POST={"id":"65","quantity":"1"} SESSION_user=2
+2025-09-09 14:41:12 >>> update_cart: before id=65 user=2 qty=1
+2025-09-09 14:41:12 >>> update_cart: after  id=65 user=2 qty=1 ok=1
+2025-09-09 14:41:12 >>> update_cart.php called. POST={"id":"65","quantity":"1"} SESSION_user=2
+2025-09-09 14:41:12 >>> update_cart: before id=65 user=2 qty=1
+2025-09-09 14:41:12 >>> update_cart: after  id=65 user=2 qty=1 ok=1
+2025-09-09 14:41:12 >>> update_cart.php called. POST={"id":"65","quantity":"1"} SESSION_user=2
+2025-09-09 14:41:12 >>> update_cart: before id=65 user=2 qty=1
+2025-09-09 14:41:12 >>> update_cart: after  id=65 user=2 qty=1 ok=1
+2025-09-09 14:41:12 >>> update_cart.php called. POST={"id":"65","quantity":"1"} SESSION_user=2
+2025-09-09 14:41:12 >>> update_cart: before id=65 user=2 qty=1
+2025-09-09 14:41:12 >>> update_cart: after  id=65 user=2 qty=1 ok=1
+2025-09-09 14:41:12 >>> update_cart.php called. POST={"id":"65","quantity":"1"} SESSION_user=2
+2025-09-09 14:41:12 >>> update_cart: before id=65 user=2 qty=1
+2025-09-09 14:41:12 >>> update_cart: after  id=65 user=2 qty=1 ok=1
+2025-09-09 15:10:06 >>> add_to_cart.php called. POST={"product_id":"9"} SESSION_user=2
+2025-09-09 15:10:06 >>> add_to_cart: inserted user=2 product=9 qty=1 id=66
+id 66 qty 12025-09-09 15:10:10 >>> add_to_cart.php called. POST={"product_id":"9","buy_now":"1"} SESSION_user=2
+2025-09-09 15:10:10 >>> add_to_cart: updated id=66 to qty=1
+id 66 qty 12025-09-09 15:10:16 >>> add_to_cart.php called. POST={"product_id":"9"} SESSION_user=2
+2025-09-09 15:10:16 >>> add_to_cart: updated id=66 to qty=1
+id 66 qty 12025-09-09 15:10:20 >>> add_to_cart.php called. POST={"product_id":"9"} SESSION_user=2
+2025-09-09 15:10:20 >>> add_to_cart: updated id=66 to qty=1
+id 66 qty 12025-09-09 15:10:41 >>> add_to_cart.php called. POST={"product_id":"9"} SESSION_user=2
+2025-09-09 15:10:41 >>> add_to_cart: inserted user=2 product=9 qty=1 id=67
+id 67 qty 1id 67 qty 12025-09-09 15:12:17 >>> add_to_cart.php called. POST={"product_id":"8"} SESSION_user=2
+2025-09-09 15:12:17 >>> add_to_cart: inserted user=2 product=8 qty=1 id=68
+id 68 qty 1id 67 qty 1id 68 qty 1id 67 qty 1id 68 qty 1id 68 qty 12025-09-26 10:35:38 >>> add_to_cart.php called. POST={"product_id":"9"} SESSION_user=2
+2025-09-26 10:35:38 >>> add_to_cart: inserted user=2 product=9 qty=1 id=69
+id 69 qty 12025-09-26 10:36:22 >>> add_to_cart.php called. POST={"product_id":"8"} SESSION_user=2
+2025-09-26 10:36:22 >>> add_to_cart: inserted user=2 product=8 qty=1 id=70
+id 70 qty 1id 69 qty 1id 69 qty 1id 69 qty 1id 69 qty 1id 69 qty 1id 69 qty 1id 69 qty 1id 69 qty 1id 69 qty 12025-09-26 11:45:58 >>> add_to_cart.php called. POST={"product_id":"9"} SESSION_user=4
+2025-09-26 11:45:58 >>> add_to_cart: inserted user=4 product=9 qty=1 id=71
+id 71 qty 12025-09-26 11:46:09 >>> add_to_cart.php called. POST={"product_id":"8"} SESSION_user=4
+2025-09-26 11:46:09 >>> add_to_cart: inserted user=4 product=8 qty=1 id=72
+id 72 qty 1id 71 qty 12025-09-26 11:50:25 >>> add_to_cart.php called. POST={"product_id":"9"} SESSION_user=5
+2025-09-26 11:50:25 >>> add_to_cart: inserted user=5 product=9 qty=1 id=73
+id 73 qty 12025-09-26 11:51:15 >>> add_to_cart.php called. POST={"product_id":"9"} SESSION_user=5
+2025-09-26 11:51:15 >>> add_to_cart: updated id=73 to qty=1
+id 73 qty 12025-09-26 11:51:19 >>> add_to_cart.php called. POST={"product_id":"9"} SESSION_user=5
+2025-09-26 11:51:19 >>> add_to_cart: inserted user=5 product=9 qty=1 id=74
+id 74 qty 1id 74 qty 1id 74 qty 1
